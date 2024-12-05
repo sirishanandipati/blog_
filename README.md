@@ -7,9 +7,9 @@ The goal of this project is to create a user-friendly, visually appealing blog w
 Project Structure
 
 Blog-Website-Project/
-├── index.html       # Main HTML file
-├── styles.css       # CSS file for styling
-└── script.js        # JavaScript file for interactivity
+-- index.html       # Main HTML file
+--styles.css       # CSS file for styling
+-- script.js        # JavaScript file for interactivity
 Features
 Blog Layout
 
