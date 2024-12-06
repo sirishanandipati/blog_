@@ -1,10 +1,10 @@
-Blog Website Project
+#Blog Website Project
 This project is a simple blog website developed using HTML, CSS, and JavaScript. The website showcases front-end development skills and includes features such as blog posts, a comment section, social media sharing options, and a responsive layout.
 
-Project Objective
+###Project Objective
 The goal of this project is to create a user-friendly, visually appealing blog website. This project serves as hands-on experience in front-end development, focusing on HTML structure, CSS styling, and JavaScript interactivity.
 
-Project Structure
+###Project Structure
 
 Blog-Website-Project/
 -- index.html       # Main HTML file
@@ -31,14 +31,15 @@ Optimized layout for mobile, tablet, and desktop screen sizes using CSS media qu
 Extra Features (Optional)
 Search bar for specific blog posts.
 
-How to Run the Project
+###How to Run the Project
 Clone or download this repository.
 Open index.html in your preferred browser to view the website.
 Technologies Used
 HTML: For the website structure and content.
 CSS: For styling and responsive design.
 JavaScript: For comment handling and interactivity.
-Future Improvements
+
+###Future Improvements
 Implement a backend for storing blog posts and comments.
 Add more categories or tags for content filtering.
 Add an authentication system for users who want to leave comments.
